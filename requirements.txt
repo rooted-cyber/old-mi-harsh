@@ -1,5 +1,4 @@
 appdirs
-fsplit
 aria2p
 beautifulsoup4
 google-api-python-client
