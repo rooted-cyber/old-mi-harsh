@@ -1,0 +1,1 @@
+rootedcyber: bash rootedcyber.sh
